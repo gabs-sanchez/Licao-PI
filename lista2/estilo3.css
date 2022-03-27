@@ -1,0 +1,30 @@
+body{
+    background-color: #d3d3d3 ;
+}
+.primario{
+    background-color: white;
+    height: 500px;
+    width: 50%;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.secundario{
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+.terceiro{
+background-color: rgb(141, 92, 1);
+height: 100px;
+width: 30%;
+}
+.quarto{
+    background-color: rgb(13, 138, 13);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    padding-left: 50px;
+    
+}
